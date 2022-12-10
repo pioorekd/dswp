@@ -1,0 +1,2 @@
+# dswp
+studia - projekt git
